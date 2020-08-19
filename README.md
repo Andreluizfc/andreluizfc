@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am André Castro, a Mad Scientist and Machine Learning/Computer Vision Engineer.
+
+- 🔭 I’m currently working at [Nuveo](https://www.nuveo.ai/)
+- 📚 I’m currently specializing in Deep Learning
+
+## Things I love:
+
+- 🤖 Robotics
+- 🧠 Artificial Intelligence
+- 👁️ Computer Vision
+- 👨‍💻 Technology
+- 🌌 Futurism
+
+
+## 📫 How to reach me:
+
+- <img height="20" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png"> [LinkedIn](https://www.linkedin.com/in/andreluizfc/)
+- <img height="20" src="https://image.flaticon.com/icons/svg/732/732200.svg"> [Gmail](mailto:andreluizfc1@gmail.com)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/andreluizfc/count.svg" />
+</p>
