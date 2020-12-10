@@ -35,7 +35,7 @@ I am André Castro, a Mad Scientist and Machine Learning/Computer Vision Enginee
 ##
 
 ![Andre's github stats](https://github-readme-stats.vercel.app/api?username=andreluizfc&count_private=true&show_icons=true&theme=tokyonight)
-![Andre's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluizfc&layout=compact&theme=synthwave)
+![Andre's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluizfc&layout=compact&theme=cobalt)
 
 <p align="center"> 
   Visitors count:<br>
