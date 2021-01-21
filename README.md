@@ -19,6 +19,7 @@ I am André Castro, a Mad Scientist and Machine Learning/Computer Vision Enginee
 
 - 🔭 I’m currently working at [Nuveo](https://www.nuveo.ai/)
 - 📚 I’m currently specializing in Deep Learning
+- 🤖 I'm the creator of [The Machine Head](https://github.com/themachineheadbr) community
 
 ## Things I love:
 
