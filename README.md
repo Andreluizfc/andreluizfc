@@ -27,7 +27,7 @@ I am André Castro, a Mad Scientist and Machine Learning/Computer Vision Enginee
 - 🧠 Artificial Intelligence
 - 👁️ Computer Vision
 - 👨‍💻 Technology
-- 🌌 Futurism
+- 🔮 Futurism
 
 ## More about me:
 - 🌎 I already visited 30 countries
