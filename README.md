@@ -1,5 +1,4 @@
-### Hi there 👋
-
+## Hi there 👋 
 <!--
 **Andreluizfc/andreluizfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,6 +42,10 @@ I am André Castro, a Mad Scientist and Machine Learning/Computer Vision Enginee
 
 ![Andre's github stats](https://github-readme-stats.vercel.app/api?username=andreluizfc&count_private=true&show_icons=true&theme=tokyonight)
 ![Andre's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluizfc&layout=compact&theme=tokyonight)
+
+<!--
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=andreluizfc.andreluizfc)
+-->
 
 <!--
 <p align="center"> 
