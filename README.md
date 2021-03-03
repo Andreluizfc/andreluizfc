@@ -29,10 +29,9 @@ I am André Castro, a Mad Scientist and Machine Learning/Computer Vision Enginee
 - 🔮 Futurism
 
 ## More about me:
-- 🌎 I already visited 30 countries
+- 🤖 I love cyberpunk culture
 - 🌌 I have seen the Northern Lights (Aurora Borealis)
 - 🎸 Fun fact: I like to listen to rock while coding
-- 🧑 I have friends around the world
 - ☕ I never refuse a cup of coffee and tech talks
 
 ## 📫 How to reach me:
