@@ -47,9 +47,9 @@ I am André Castro, a Mad Scientist and Machine Learning/Computer Vision Enginee
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=andreluizfc.andreluizfc)
 -->
 
-<!--
+
 <p align="center"> 
   Visitors count:<br>
   <img height="20" src="https://profile-counter.glitch.me/andreluizfc/count.svg" />
 </p>
--->
+
