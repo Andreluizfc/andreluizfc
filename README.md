@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I am André Castro, a Mad Scientist and Machine Learning/Computer Vision Engineer.
 
-- 🔭 I’m currently working at [Radix](https://www.radixeng.com.br/home)
+- 🔭 I’m currently working at [Lumini IT](https://luminiitsolutions.com/)
 - 📚 I’m currently specializing in Deep Learning
 - 🤖 I'm the creator of [The Machine Head](https://github.com/themachineheadbr) community
 
