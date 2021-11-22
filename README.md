@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 I am André Castro, a Mad Scientist and Machine Learning/Computer Vision Engineer.
 
-- 🔭 I’m currently working at [Lumini IT](https://luminiitsolutions.com/)
-- 📚 I’m currently specializing in Deep Learning
+- 🔭 I’m currently working at [Stone Co.](https://www.stone.co/)
+- 📚 I’m currently specializing in Deep Learning and MLOps.
 - 🤖 I'm the creator of [The Machine Head](https://github.com/themachineheadbr) community
 
 ## Things I love:
@@ -35,9 +35,9 @@ I am André Castro, a Mad Scientist and Machine Learning/Computer Vision Enginee
 - ☕ I never refuse a cup of coffee and tech talks
 
 ## 📫 How to reach me:
-- <img height="20" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png"> [LinkedIn](https://www.linkedin.com/in/andreluizfc/)
-- <img height="20" src="https://image.flaticon.com/icons/svg/732/732200.svg"> [Gmail](mailto:andreluizfc1@gmail.com)
-- <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png"> [Instagram](https://www.instagram.com/themachineheadbr/)
+- <img height="20" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1637615948~hmac=9ba7bc5f7aea81b135540480f74bcbdc"> [LinkedIn](https://www.linkedin.com/in/andreluizfc/)
+- <img height="20" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"> [Gmail](mailto:andreluizfc1@gmail.com)
+- <img height="20" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"> [Instagram](https://www.instagram.com/themachineheadbr/)
 ##
 
 ![Andre's github stats](https://github-readme-stats.vercel.app/api?username=andreluizfc&count_private=true&show_icons=true&theme=tokyonight)
