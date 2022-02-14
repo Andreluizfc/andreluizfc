@@ -35,9 +35,9 @@ I am André Castro, a Mad Scientist and Machine Learning/Computer Vision Enginee
 - ☕ I never refuse a cup of coffee and tech talks
 
 ## 📫 How to reach me:
-- <img height="20" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1637615948~hmac=9ba7bc5f7aea81b135540480f74bcbdc"> [LinkedIn](https://www.linkedin.com/in/andreluizfc/)
-- <img height="20" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"> [Gmail](mailto:andreluizfc1@gmail.com)
-- <img height="20" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"> [Instagram](https://www.instagram.com/themachineheadbr/)
+- <img height="25" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1644872394~hmac=0fe5699ea84a6753152033e1f0ad8a9f"> [LinkedIn](https://www.linkedin.com/in/andreluizfc/)
+- <img height="25" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"> [Gmail](mailto:andreluizfc1@gmail.com)
+- <img height="25" src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938036.png?token=exp=1644872467~hmac=cc848f6d62ef477615e901bbd879c9eb"> [Instagram](https://www.instagram.com/themachineheadbr/)
 ##
 
 ![Andre's github stats](https://github-readme-stats.vercel.app/api?username=andreluizfc&count_private=true&show_icons=true&theme=tokyonight)
