@@ -27,6 +27,7 @@ I am André Castro, a Mad Scientist and Machine Learning/Computer Vision Enginee
 - 👁️ Computer Vision
 - 👨‍💻 Technology
 - 🔮 Futurism
+- 📈 Finances
 
 ## More about me:
 - 🤖 I love cyberpunk culture
