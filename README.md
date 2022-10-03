@@ -18,7 +18,7 @@ I am André Castro, a Mad Scientist and Machine Learning/Computer Vision Enginee
 
 - 🔭 I’m currently working at [Stone Co.](https://www.stone.co/)
 - 📚 I’m currently specializing in Deep Learning and MLOps.
-- 🤖 I'm the creator of [The Machine Head](https://github.com/themachineheadbr) community
+- 🤖 I'm the creator of [The Machine Head](https://github.com/themachinehead) community
 
 ## Things I love:
 
