@@ -38,7 +38,7 @@ I am André Castro, a Mad Scientist and Machine Learning/Computer Vision Enginee
 ## 📫 How to reach me:
 - <img height="25" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> [LinkedIn](https://www.linkedin.com/in/andreluizfc/)
 - <img height="25" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"> [Gmail](mailto:andreluizfc1@gmail.com)
-- <img height="25" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"> [Instagram](https://www.instagram.com/themachineheadbr/)
+- <img height="25" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"> [Instagram](https://www.instagram.com/themachinehead.ai/)
 ##
 
 ![Andre's github stats](https://github-readme-stats.vercel.app/api?username=andreluizfc&count_private=true&show_icons=true&theme=tokyonight)
